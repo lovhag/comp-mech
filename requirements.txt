@@ -6,7 +6,6 @@ ipdb==0.13.13
 matplotlib==3.8.1
 more_itertools==10.2.0
 numpy==1.25.2
-openai==1.14.2
 pandas==1.5.3
 rich==13.7.1
 sympy==1.12
